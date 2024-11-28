@@ -1,1 +1,4 @@
-
+{
+  "baseUrl_Ollama": "http://59.94.176.126:11434",
+  "baseUrl_Backend": "http://59.94.176.126:5223"
+}
